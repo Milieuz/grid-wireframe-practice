@@ -68,11 +68,6 @@ footer{
 
 @media (min-width: 900px) {
 
-    /* body{
-        display:grid;
-        justify-content:flex-start;
-    } */
-
     header{
         width: 100%;
         padding: 20px
@@ -89,8 +84,6 @@ footer{
         grid-template-rows: 1fr 1fr 1fr;
         width: 100%;
         order: 2;
-        /* align-content: center;
-        text-align: center; */
     }
 
     .article-title{
